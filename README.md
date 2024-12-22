@@ -55,17 +55,17 @@
 ## Projects
 
 ### Harware
- [<b>PicoMod</b>](https://github.com/The-Faulty/PicoMod)
+ [<b>PicoMod</b>](https://github.com/The-Faulty/PicoMod) \
 Highly flexible microcontroller board with high density connectors. Primarily used in a flight computer for high power rocketry. See [PicoMod Core](https://github.com/The-Faulty/PicoMod/tree/main/PicoMod%20Core), [PicoMod Eject](https://github.com/The-Faulty/PicoMod/tree/main/PicoMod%20Eject), or [PicoMod Breakout](https://github.com/The-Faulty/PicoMod/tree/main/PicoMod%20Breakout).
 
-[<b>Lyra</b>](https://github.com/The-Faulty/Lyra)
+[<b>Lyra</b>](https://github.com/The-Faulty/Lyra) \
 Parachute deployment altimeter for use in high power rocketry utilizing a SamD21 and MS5607 barometer. Read about it [here](https://github.com/The-Faulty/Lyra/blob/main/README.md). 
 
 ### Software
-[<b>VTOLVR Supercarrier</b>](https://github.com/The-Faulty/VTOLVR-Supercarrier)
+[<b>VTOLVR Supercarrier</b>](https://github.com/The-Faulty/VTOLVR-Supercarrier) \
 A mod developed for the videogame VTOL VR that adds deck crew members to the aircraft carriers. As of 12/22/2024 it is the 6th most subscribed mod for the game with 3,900 subscribers. View it [here](https://steamcommunity.com/sharedfiles/filedetails/?id=3284576498).
 
-[<b>OpenDiscourse</b>](https://github.com/The-Faulty/openDiscourse)
+[<b>OpenDiscourse</b>](https://github.com/The-Faulty/openDiscourse) \
 Messaging platform heavily inspired by discord. Uses React.js and Firebase to provide functionality. View it [here](https://pgcm5.csb.app/).
 
 
